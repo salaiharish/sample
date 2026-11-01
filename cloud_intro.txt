@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 it's a GitHub text file
 file edited.
+=======
+it's a GitHub text file
+>>>>>>> eb3f7e0d7839bb969bcc95f08cac8a056d4cfd7e
